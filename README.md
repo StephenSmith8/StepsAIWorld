@@ -4,11 +4,9 @@
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>Setup SIEM In Azure</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Setup Virtual Active Directory Environment In Azure</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Creation of A Keylogger With Python</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2>Certifications:</h2>
  <b>Security+</b><br/><a

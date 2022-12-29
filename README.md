@@ -3,7 +3,7 @@
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
-- <b>Setup SIEM In Azure ( Uploading Today 12/28 )</b>
+- <b>Setup SIEM In Azure</b>
   - [Windows EventLog: Failed RDP Logins : SourceIP to full GeoData Conversion](https://github.com/CyberChefSteph/Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion)
 - <b>Setup Virtual Active Directory Environment In Azure ( In Progress )</b>
  <!-- - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i> -->

@@ -9,11 +9,12 @@
  <!-- - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i> -->
 
 <h2>Certifications:</h2>
- <b>Security+</b><br/><a
- <b>Network+</b><br/><a
- <b>A+</b><br/><a
+ <b>CompTIA Security+</b><br/><a
+ <b>CompTIA Network+</b><br/><a
+ <b>CompTIA A+</b><br/><a
  <b>CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification</b><br/><a
  <b>CompTIA IT Operations Specialist – CIOS Stackable Certification</b><br/><a
+ <b>ITIL4</b><br/><a                                                                              
 
  <h2></h2> 
  

@@ -1,4 +1,5 @@
-<h1>Hi, I'm Steph! 
+<h1>Hi, I'm Steph!
+   
 <br/><a <a href="https://www.linkedin.com/in/stephenmsmith27/">IT Professional</a>
 
 <h2>👨🏾‍💻 Tech Projects:</h2>
@@ -18,7 +19,7 @@
  <h2></h2> 
  
  <h2>Other Relevant Experience:</h2>
- - <b>Cognizant Generative AI Externship :</b><br/><a <a href="https://www.udacity.com/certificate/e/982b7af0-2263-11ef-b339-83978f8cc24c">Gen AI Nanodegree Certificate</a>
+ - <b>Cognizant Generative AI Externship :</b><a <a href="https://www.udacity.com/certificate/e/982b7af0-2263-11ef-b339-83978f8cc24c">Gen AI Nanodegree Certificate</a>
   - <b>- Daily listener to Cybersecurity Podcasts including Cyber Wire Daily, Darknet Diaries, & Hacked</b>
 <h2> 🤳🏾 Connect with me:</h2>
 

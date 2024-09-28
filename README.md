@@ -2,10 +2,10 @@
 <br/><a <a href="https://www.linkedin.com/in/stephenmsmith27/">IT Professional</a>
 
 <h2>👨🏾‍💻 Tech Projects:</h2>
-
+- <b>Use a Pre-trained Image Classifier to identtify Dog Breeds</b>
 - <b>Setup SIEM In Azure</b>
   - [Windows EventLog: Failed RDP Logins : SourceIP to full GeoData Conversion](https://github.com/CyberChefSteph/Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion)
-- <b>Setup Virtual Active Directory Environment In Azure ( In Progress )</b>
+
  <!-- - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i> -->
 
 <h2>Certifications:</h2>

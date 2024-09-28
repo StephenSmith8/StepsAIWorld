@@ -3,7 +3,7 @@
 
 <h2>👨🏾‍💻 Tech Projects:</h2>
 - <b>Use a Pre-trained Image Classifier to identtify Dog Breeds</b>
-  - 
+   
 
  <!-- - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i> -->
 

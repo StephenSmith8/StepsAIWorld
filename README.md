@@ -19,8 +19,8 @@
  <h2></h2> 
  
  <h2>Other Relevant Experience:</h2>
- - <b>Cognizant Generative AI Externship :</b><a <a href="https://www.udacity.com/certificate/e/982b7af0-2263-11ef-b339-83978f8cc24c">Gen AI Nanodegree Certificate</a>
-  - <b>- Daily listener to Cybersecurity Podcasts including Cyber Wire Daily, Darknet Diaries, & Hacked</b>
+ - <b>Cognizant Generative AI Externship : </b><a <a href="https://www.udacity.com/certificate/e/982b7af0-2263-11ef-b339-83978f8cc24c">Gen AI Nanodegree Certificate</a>
+ 
 <h2> 🤳🏾 Connect with me:</h2>
 
 [<img align="left" alt="StephenSmith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

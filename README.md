@@ -2,7 +2,7 @@
 <br/><a <a href="https://www.linkedin.com/in/stephenmsmith27/">IT Professional</a>
 
 <h2>👨🏾‍💻 Tech Projects:</h2>
-- <b>Use a Pre-trained Image Classifier to identtify Dog Breeds</b>
+- <b>Used a Pre-trained Image Classifier to identtify Dog Breeds</b>
    
 
  <!-- - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i> -->
@@ -18,7 +18,7 @@
  <h2></h2> 
  
  <h2>Other Relevant Experience:</h2>
- - <b>Active member of TryHackMe.com, ranked in the top 11% percent of users</b><br/><a
+ - <b>Cognizant Generative AI Externship</b><br/><a <a href="https://www.linkedin.com/in/stephenmsmith27/](https://www.udacity.com/certificate/e/982b7af0-2263-11ef-b339-83978f8cc24c)">Gen AI Nanodegree Certificate</a>
   - <b>- Daily listener to Cybersecurity Podcasts including Cyber Wire Daily, Darknet Diaries, & Hacked</b>
 <h2> 🤳🏾 Connect with me:</h2>
 

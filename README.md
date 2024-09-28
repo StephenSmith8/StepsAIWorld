@@ -1,7 +1,7 @@
 <h1>Hi, I'm Steph! 
 <br/><a <a href="https://www.linkedin.com/in/stephenmsmith27/">IT Professional</a>
 
-<h2>👨🏾‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏾‍💻 Tech Projects:</h2>
 
 - <b>Setup SIEM In Azure</b>
   - [Windows EventLog: Failed RDP Logins : SourceIP to full GeoData Conversion](https://github.com/CyberChefSteph/Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion)

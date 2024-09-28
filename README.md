@@ -3,7 +3,6 @@
 
 <h2>👨🏾‍💻 Tech Projects:</h2>
 - <b>Use a Pre-trained Image Classifier to identtify Dog Breeds</b>
-
 - <b>Setup SIEM In Azure</b>
   - [Windows EventLog: Failed RDP Logins : SourceIP to full GeoData Conversion](https://github.com/CyberChefSteph/Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion)
 

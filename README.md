@@ -1,5 +1,5 @@
 <h1>Hi, I'm Steph! 
-<br/><a <a href="https://www.linkedin.com/in/stephenmsmith27/">Cybersecurity Professional</a>
+<br/><a <a href="https://www.linkedin.com/in/stephenmsmith27/">IT Professional</a>
 
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 

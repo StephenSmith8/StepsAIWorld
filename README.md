@@ -3,7 +3,8 @@
 <br/><a href="https://www.linkedin.com/in/stephenmsmith27/">IT Professional</a>
 
 <h2>👨🏾‍💻 Tech Projects:</h2>
-- <b>Used a Pre-trained Image Classifier to identtify Dog Breeds</b>
+- <b>Used a Pre-trained Image Classifier to identtify Dog Breeds (Uploading 10/2024)</b>
+<br/>- Applied Lightweight Fine-Tuning to a Foundation Model (Uploading 10/24)</b>
    
 
  <!-- - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i> -->

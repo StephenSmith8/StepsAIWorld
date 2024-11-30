@@ -4,7 +4,7 @@
 
 <h2>👨🏾‍💻 Tech Projects:</h2>
 - <b>Used a Pre-trained Image Classifier to identtify Dog Breeds (Uploading 10/2024)</b>
-<br/>- Applied Lightweight Fine-Tuning to a Foundation Model (Uploading 10/24)</b>
+<br/>- <a href ="https://github.com/StephenSmith8/Applied-Lightweight-Fine-Tuning-to-A-Foundation-Model">Applied-Lightweight-Fine-Tuning-to-A-Foundation-Model</a></b>
 <br/>- <a href ="https://github.com/StephenSmith8/Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion">Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion</a>
    
 

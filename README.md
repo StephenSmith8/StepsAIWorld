@@ -1,4 +1,4 @@
-<h1>Hi, I'm Step!
+<h1>Hi, I'm Stephen!
    
 <br/><a href="https://www.linkedin.com/in/stephenmsmith27/">IT Professional</a>
 
